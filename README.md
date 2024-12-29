@@ -22,4 +22,4 @@ Beberapa tahapan dalam proses analisa:
  # Data-Visualization
 Data visualization adalah proses menyajikan data dalam bentuk visual, seperti grafik, diagram, atau peta, untuk memudahkan pemahaman, analisis, dan komunikasi wawasan dari data. Tujuan utama data visualization adalah untuk menyederhanakan informasi kompleks dan membantu pengambilan keputusan.
 
- # pengembangan-Dashboard menggunakan Streamlit
+ # Pengembangan-Dashboard menggunakan Streamlit
