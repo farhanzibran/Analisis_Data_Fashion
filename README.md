@@ -19,7 +19,7 @@ Beberapa tahapan dalam proses analisa:
 5.Identifikasi Outlier: Menemukan data yang menyimpang.
 6.Transformasi Data: Menyesuaikan data jika diperlukan.
 
-#Data-Visualization
+ # Data-Visualization
 Data visualization adalah proses menyajikan data dalam bentuk visual, seperti grafik, diagram, atau peta, untuk memudahkan pemahaman, analisis, dan komunikasi wawasan dari data. Tujuan utama data visualization adalah untuk menyederhanakan informasi kompleks dan membantu pengambilan keputusan.
 
-#pengembangan-Dashboard menggunakan Streamlit
+ # pengembangan-Dashboard menggunakan Streamlit
